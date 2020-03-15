@@ -1,0 +1,23 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@endinputifotherversion {3.36pt}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{文字部分}{4}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{1}{中英文混合排版}{5}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{图、表、公式}{13}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{1}{普通插图}{14}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{2}{tikz绘图}{16}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{3}{公式和列表}{19}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{4}{定理、定义}{23}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{5}{文献引用举例}{26}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{6}{左右分栏和图形动画}{29}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{思维导图}{42}{0}{3}
